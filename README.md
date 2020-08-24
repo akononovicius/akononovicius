@@ -1,4 +1,4 @@
-<p style="text-align:center">
+<p align="center">
     <img src="https://raw.githubusercontent.com/akononovicius/akononovicius/master/header.gif">
 </p>
 
