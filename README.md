@@ -6,6 +6,8 @@ Hi, my name is **Aleksejus Kononovicius**. I am researcher at [Institute of Theo
 
 I use GitHub primarily to share data and source code related to my research. I also use GitHub to store contents of the [Physics of Risk](https://rf.mokslasplius.lt/) blog.
 
+My **preferred programming languages** are Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes I rely on Mathematica (for algebraic manipulations and because my coworkers use it) and Java (for historical reasons and because it is able to easily interface with Mathematica).
+
 ### 🌐 Links:
 
 * [Personal website](http://kononovicius.lt)
