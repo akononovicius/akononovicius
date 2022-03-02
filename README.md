@@ -6,7 +6,21 @@ Hi, my name is **Aleksejus Kononovicius**. I am working as a senior researcher a
 
 I use GitHub primarily to share data and source code related to my research. I also use GitHub to store contents of the [Physics of Risk](https://rf.mokslasplius.lt/) blog.
 
-My **preferred programming languages** are Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes I rely on Mathematica (for algebraic manipulations and because my coworkers use it) and Java (for historical reasons and because it is able to easily interface with Mathematica).
+Currently I am using programming for scientific purposes as well as to make my everyday computer usage easier.
+
+For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes I rely on Mathematica (for algebraic manipulations and because my coworkers use it) and Java (for historical reasons and because it is able to easily interface with Mathematica).
+
+In everyday usage I rely on Bash scripting and Python.
+
+I also <a href="./teaching.html">teach</a> Matlab.
+
+**Actively using:** JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Python (numpy, pandas, matplotlib, scipy, sympy, pymc3), C (GNU Scientific Library), Wolfram Mathematica, Matlab.
+
+**Markup languages:** LaTeX, Markdown, HTML, CSS.
+
+**Used in the past:** Java, GNU Octave, PHP, SQL, Object Pascal.
+
+**Got familiar with:** R, Maple, Mathcad, SPSS, PostScript, SVG.
 
 ### 🌐 Links:
 
