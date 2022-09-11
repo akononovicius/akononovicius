@@ -16,9 +16,9 @@ I used to <a href="http://kononovicius.lt/teaching.html">teach</a> Matlab.
 
 **Actively using:** JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Python (numpy, pandas, matplotlib, scipy, sympy, pymc3), C (GNU Scientific Library), Wolfram Mathematica.
 
-**Markup languages:** LaTeX, Matlab, Markdown, HTML, CSS.
+**Markup languages:** LaTeX, Markdown, HTML, CSS.
 
-**Used in the past:** Java, GNU Octave, PHP, SQL, Object Pascal.
+**Used in the past:** Java, Matlab, GNU Octave, PHP, SQL, Object Pascal.
 
 **Got familiar with:** R, Maple, Mathcad, SPSS, PostScript, SVG.
 
