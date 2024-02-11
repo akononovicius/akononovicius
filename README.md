@@ -12,7 +12,7 @@ For scientific calculations I tend to rely on Python (for quick empirical analys
 
 In everyday usage I rely on Bash scripting and Python.
 
-I used to <a href="http://kononovicius.lt/teaching.html">teach</a> Matlab.
+I used to teach Matlab.
 
 **Actively using:** JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Python (numpy, pandas, matplotlib, scipy, sympy, pymc3), C (GNU Scientific Library), Wolfram Mathematica.
 
