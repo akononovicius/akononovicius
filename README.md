@@ -8,7 +8,7 @@ I use GitHub primarily to share data and source code related to my research. I a
 
 Currently I am using programming for scientific purposes as well as to make my everyday computer usage easier.
 
-For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes I rely on Mathematica (for algebraic manipulations and because my coworkers use it) and Java (for historical reasons and because it is able to easily interface with Mathematica).
+For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes, mostly for algebraic manipulations, I rely on Mathematica.
 
 In everyday usage I rely on Bash scripting and Python.
 
