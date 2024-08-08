@@ -6,11 +6,12 @@ Hi, my name is **Aleksejus Kononovicius**. I am working as a senior researcher a
 
 I use GitHub primarily to share data and source code related to my research. I also use GitHub to store contents of the [Physics of Risk](https://rf.mokslasplius.lt/) blog.
 
-Currently I am using programming for scientific purposes as well as to make my everyday computer usage easier.
+Currently, I am using programming for scientific purposes as well as to facilitate everyday interactions with my computers (most of which run some
+kind of Linux distribution).
 
-For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design). Sometimes, mostly for algebraic manipulations, I rely on Mathematica.
+For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), numba library or C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design).  Sometimes, mostly for algebraic manipulations, I rely on Mathematica (Wolfram Engine). Although I try to replace it with sympy library.
 
-In everyday usage I rely on Bash scripting and Python.
+In everyday usage I rely on shell (mostly Bash) scripting and Python.
 
 **Actively using:** JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Python (numpy, pandas, matplotlib, scipy, sympy, pymc3), C (GNU Scientific Library), Wolfram Mathematica.
 
