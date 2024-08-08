@@ -13,11 +13,11 @@ For scientific calculations I tend to rely on Python (for quick empirical analys
 
 In everyday usage I rely on shell (mostly Bash) scripting and Python.
 
-**Actively using:** JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Python (numpy, pandas, matplotlib, scipy, sympy, pymc3), C (GNU Scientific Library), Wolfram Mathematica.
+**Actively using:** Python (numpy, matplotlib, pandas, scipy, numba, sympy, pymc3), C (GNU Scientific Library), JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Mathematica (Wolfram Engine).
 
 **Markup languages:** LaTeX, Markdown, HTML, CSS.
 
-**Used in the past:** Java, Matlab, GNU Octave, PHP, SQL, Object Pascal.
+**Used in the past:** Java, PHP, SQL, Matlab, GNU Octave, Object Pascal.
 
 **Got familiar with:** R, Maple, Mathcad, SPSS, PostScript, SVG.
 
