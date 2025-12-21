@@ -9,11 +9,11 @@ I use GitHub primarily to share data and source code related to my research. I a
 Currently, I am using programming for scientific purposes as well as to facilitate everyday interactions with my computers (most of which run some
 kind of Linux distribution).
 
-For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), numba library or C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design).  Sometimes, mostly for algebraic manipulations, I rely on Mathematica (Wolfram Engine). Although I try to replace it with sympy library.
+For scientific calculations I tend to rely on Python (for quick empirical analysis and model prototyping), numba library or C (for "heavy" calculations) and JavaScript (for interactive web models and complicated calculations requiring object oriented design).  Sometimes, mostly for algebraic manipulations, I rely on [WLJS](https://wljs.io) (uses Wolfram Engine as backend). Although I would like to replace it with sympy library.
 
 In everyday usage I rely on shell (mostly Bash) scripting and Python.
 
-**Actively using:** Python (numpy, matplotlib, pandas, scipy, numba, sympy, pymc3), C (GNU Scientific Library), JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Mathematica (Wolfram Engine).
+**Actively using:** Python (numpy, matplotlib, pandas, scipy, numba, pymc3), C (GNU Scientific Library), JavaScript (Node.js, jQuery, plotly, d3, Leaflet, TypeScript), Mathematica (Wolfram Engine).
 
 **Markup languages:** LaTeX, Markdown, HTML, CSS.
 
